@@ -27,3 +27,4 @@ A fun project i made while learning CSS animations. It's really cool to see just
 
 ### 🎬 Preview
 
+https://github.com/user-attachments/assets/3a222735-f3aa-4b66-9ba0-d3eb67896f53
