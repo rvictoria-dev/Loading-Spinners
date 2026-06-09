@@ -7,6 +7,24 @@ A fun project i made while learning CSS animations. It's really cool to see just
 
 ---
 
+### 📁 Project structure
+
+```
+loading-spinners/
+├── index.html
+├── style.css
+└── README.md
+```
+
+---
+
+### 🛠️ Built With
+
+- HTML
+- CSS
+
+---
+
 ### 💡 What i learned
 
 - `border-top-color` — sets a color for just one side of a border, wich creates the spinning illusion
@@ -15,13 +33,6 @@ A fun project i made while learning CSS animations. It's really cool to see just
 - `nth-child(n)` — targets a child element by position, used to set a different
 - `animation-delay` — on each dot/bar
 - `transform: scaleY()` — stretches or squishes an element vertically (`0` =  flat, `1` = normal, `1.5` = taller)
-
----
-
-### 🛠️ Built With
-
-- HTML
-- CSS
 
 ---
 
